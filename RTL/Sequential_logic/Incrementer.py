@@ -1,4 +1,4 @@
-#incrementer with enable, and an asynchronous reset
+# incrementer with enable, and an asynchronous reset
 
 from myhdl import block, always_seq
 
